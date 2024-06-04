@@ -27,6 +27,8 @@ Foi importado na instância do Grafana o seguinte dashboard:
 
 A conexão com o recurso do Azure API Managament deverá ser feita através de uma **App Registration**, criada no tenant do Microsoft Entra ID da mesma subscription.
 
+Detalhes sobre a integração do Azure com o Grafana podem ser encontrados neste [**link**](https://grafana.com/docs/grafana/latest/datasources/azure-monitor/) da documentação oficial.
+
 Alguns cuidados:
 
 1) Configurar em **Authentication** para que sejam emitidos **Access Tokens** e **ID Tokens**:
