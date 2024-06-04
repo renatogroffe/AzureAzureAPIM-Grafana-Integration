@@ -38,3 +38,11 @@ Alguns cuidados:
 3) No **Resource Group** em que se encontram o **APIM**, **Application Insights** e **Log Analytics** conceder as permissões **Reader** e **Monitoring Reader** para a **App Registration**:
 
 ![alt](img/40-permissions-resource-group.png)
+
+---
+
+## Exemplo do dashboard em operação
+
+Exemplo de **dashboard** acessado a partir de um container do Grafana:
+
+![alt](img/50-grafana-exemplo.png)
