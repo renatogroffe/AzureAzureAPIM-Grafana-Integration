@@ -1,5 +1,5 @@
 # Integração entre Azure API Management e Grafana
-Instruções sobre configurações para tornar possível o monitoramento de um recurso do Azure API Managament a partir de uma instância do Grafana fora da nuvem Microsoft.
+Instruções sobre configurações para tornar possível o monitoramento de um recurso do Azure API Managament a partir de uma instância do Grafana fora da nuvem Microsoft (um container, neste exemplo).
 
 ![alt](img/overview.png)
 
